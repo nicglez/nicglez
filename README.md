@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolás</h1>
 <h3 align="center">A hardware engineer from northern Spain</h3>
 
-- 📍 I’m currently based in **Norway**
-
-- 🌱 I’m currently learning **IoT systems**
+- 📍 Orginally from **Spain** and based in **Norway**
 
 - 🚀 I’m working full time at [Evyon](https://www.evyon.com/)
+
+- 🌱 I’m currently learning **IoT systems**
 
 - 💡 I’m interested in **new technologies and innovation**
 
