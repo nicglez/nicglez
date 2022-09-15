@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Nicolás</h1>
+<h1 align="center">Hey! I'm Nico 👋</h1>
 <h3 align="center">A hardware engineer from northern Spain</h3>
 
-- 📍 Orginally from **Spain** and based in **Norway**
+- 📍 Currently based in Norway
 
 - 🚀 I’m working full time at [Evyon](https://www.evyon.com/)
 
-- 🌱 I’m currently learning **IoT systems**
+- 🌱 I’m trying to learn IoT based systems
 
-- 💡 I’m interested in **new technologies and innovation**
+- 💡 I’m interested in new technologies and innovation
 
-- 💬 Ask me about **energy storage systems and sustainability**
+- 💬 Ask me about energy storage systems and sustainability
 
-- 📫 This is how to reach me **nigonalz@gmail.com**
+- 📫 This my personal email: **nigonalz@gmail.com**
 
 - ⚡ Fun fact **I'm black belt in Tai-Jitsu🥋🥷🏼**
 
