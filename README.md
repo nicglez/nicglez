@@ -1,5 +1,5 @@
-<h1 align="center">Hey! I'm Nico 👋</h1>
-<h3 align="center">A hardware engineer from northern Spain</h3>
+<h1 align="left">Hey👋 Nico here! </h1>
+<h3 align="left">A hardware engineer from northern Spain</h3>
 
 - 📍 Currently based in Norway
 
