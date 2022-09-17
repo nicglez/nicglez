@@ -9,7 +9,7 @@
 
 - 💡 I’m interested in new technologies and innovation
 
-- 💬 Ask me about energy storage systems and sustainability
+- 💬 Ask me about sustainable technologies
 
 - 📫 This my personal email: **nigonalz@gmail.com**
 
