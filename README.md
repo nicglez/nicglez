@@ -5,9 +5,9 @@
 
 - 🚀 I’m working full time at [Evyon](https://www.evyon.com/)
 
-- 🌱 I’m trying to learn IoT based systems
+- 🌱 I’m trying to get better at embedded programming
 
-- 💡 I’m interested in new technologies and innovation
+- 💡 I’m interested in hardware design and new technologies
 
 - 💬 Ask me about sustainable technologies
 
